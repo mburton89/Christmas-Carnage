@@ -1,22 +1,13 @@
 fileFormatVersion: 2
-guid: 009113da6ff55aa4b86306b38aca7368
+guid: 76df93716d92f4892b9d2e231caba754
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2261692143262048014
-    second: Jetpack Turtle_0
+      213: 3851931546510976549
+    second: block-dude_0
   - first:
-      213: 5759839193563235946
-    second: Jetpack Turtle_1
-  - first:
-      213: -1636489265730971151
-    second: Jetpack Turtle_2
-  - first:
-      213: -5572454642536161889
-    second: Jetpack Turtle_3
-  - first:
-      213: -4845268538290248970
-    second: Jetpack Turtle_4
+      213: 924869424638992540
+    second: block-dude_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -103,7 +94,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: WebGL
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -115,7 +106,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: iPhone
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -142,97 +133,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Jetpack Turtle_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 42
-        width: 21
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f0e2998afadc90e0800000000000000
-      internalID: -2261692143262048014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jetpack Turtle_1
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 42
-        width: 21
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a6685b7ca3f0fef40800000000000000
-      internalID: 5759839193563235946
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jetpack Turtle_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 21
-        width: 21
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1f99d5deea50a49e0800000000000000
-      internalID: -1636489265730971151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jetpack Turtle_3
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 21
-        width: 21
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f9dd7a8d60aaaa2b0800000000000000
-      internalID: -5572454642536161889
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jetpack Turtle_4
+      name: block-dude_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 21
-        height: 21
+        width: 20
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,8 +147,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f265dd8fe522ccb0800000000000000
-      internalID: -4845268538290248970
+      spriteID: 52668e8455fc47530800000000000000
+      internalID: 3851931546510976549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-dude_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c902a3f67dbc5dc00800000000000000
+      internalID: 924869424638992540
       vertices: []
       indices: 
       edges: []

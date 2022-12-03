@@ -15,6 +15,11 @@ public class GameManager : MonoBehaviour
         Time.timeScale = 1;
     }
 
+    private void Start()
+    {
+        gameOverMenu.SetActive(false);
+    }
+
     public void GameOver()
     {
         gameOverMenu.SetActive(true);
