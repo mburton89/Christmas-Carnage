@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class CharacterSelectMenu : MonoBehaviour
 {
     public List<GameObject> characters;
+    public List<GameObject> selectionOutlines;
     public List<Button> characterButtons;
 
     private void Awake()
@@ -36,11 +37,17 @@ public class CharacterSelectMenu : MonoBehaviour
     void ActivateCharacter()
     {
         characters[PlayerPrefs.GetInt("character")].SetActive(true);
+        selectionOutlines[PlayerPrefs.GetInt("character")].SetActive(true);
     }
 
     void HandleCharacterButtonPressed(int buttonIndex)
     {
         PlayerPrefs.SetInt("character", buttonIndex);
-        print(buttonIndex);
+
+        foreach (GameObject selectionOutline in selectionOutlines)
+        {
+            selectionOutline.SetActive(false);
+        }
+        selectionOutlines[PlayerPrefs.GetInt("character")].SetActive(true);
     }
 }
