@@ -11,9 +11,13 @@ public class PipeSpawner : MonoBehaviour
     public GameObject pipePrefab;
     public float randomHeight;
 
-    void Start()
+    private void Awake()
     {
         Instance = this;
+    }
+
+    void Start()
+    {
         SpawnPipe();
     }
 

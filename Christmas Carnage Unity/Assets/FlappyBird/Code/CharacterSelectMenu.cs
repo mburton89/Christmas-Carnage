@@ -25,7 +25,7 @@ public class CharacterSelectMenu : MonoBehaviour
     public List<TMP_FontAsset> TMPFontAssets;
 
     //PIPES
-    //public List
+    public List<GameObject> PipePrefabs;
 
 
 
