@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PipeSpawner : MonoBehaviour
 {
+    public static PipeSpawner Instance;
+
     float secondsPassed;
     public float maxSecondsPassed;
     public GameObject pipePrefab;
@@ -11,6 +13,7 @@ public class PipeSpawner : MonoBehaviour
 
     void Start()
     {
+        Instance = this;
         SpawnPipe();
     }
 

@@ -2,12 +2,32 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class CharacterSelectMenu : MonoBehaviour
 {
+    //CHARACTERS
     public List<GameObject> characters;
     public List<GameObject> selectionOutlines;
     public List<Button> characterButtons;
+
+    //SKINS
+    public SpriteRenderer backgroundSpriteRenderer;
+    public List<Sprite> backgroundSprites;
+
+    public SpriteRenderer groundSpriteRenderer;
+    public List<Sprite> groundSprites;
+
+    public Image playButtonImage;
+    public List<Image> playButtonSprites;
+
+    public List<TextMeshProUGUI> allText;
+    public List<TMP_FontAsset> TMPFontAssets;
+
+    //PIPES
+    //public List
+
+
 
     private void Awake()
     {
