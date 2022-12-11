@@ -8,7 +8,7 @@ public class PipeSpawner : MonoBehaviour
 
     float secondsPassed;
     public float maxSecondsPassed;
-    public GameObject pipePrefab;
+    public List<GameObject> pipePrefabs;
     public float randomHeight;
 
     private void Awake()
@@ -34,7 +34,7 @@ public class PipeSpawner : MonoBehaviour
 
     void SpawnPipe()
     {
-        GameObject newPipe = Instantiate(pipePrefab);
+        GameObject newPipe = Instantiate(pipePrefabs[PlayerPrefs.GetInt("pipe")]);
         float newRandomHeight = Random.Range(-randomHeight, randomHeight);
         newPipe.transform.position = transform.position + new Vector3(0, newRandomHeight, 0);
         Destroy(newPipe, 12);

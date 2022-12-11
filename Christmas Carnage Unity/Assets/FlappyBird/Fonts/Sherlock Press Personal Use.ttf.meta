@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cf926ac7f027668458c6a299cea05437
+guid: 71fba84fbed644b99a687d4e9bdff0d9
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - 04b_19
+  - Sherlock Press Personal Use
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

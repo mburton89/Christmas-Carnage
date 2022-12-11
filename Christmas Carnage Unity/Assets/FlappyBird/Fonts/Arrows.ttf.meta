@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 251d1bf7bb60b37429940924a07020ee
+guid: 5e2c515e13db844d8b4d5d1a1900a8de
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Pixeled
+  - Arrows
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

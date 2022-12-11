@@ -1,0 +1,1344 @@
+fileFormatVersion: 2
+guid: 572ae58e519d74d26a73cfcc8463c314
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6207038376700026928
+    second: Halloween Theme Sprite Sheet Finished_0
+  - first:
+      213: 4295382643958054466
+    second: Halloween Theme Sprite Sheet Finished_1
+  - first:
+      213: -1388818982445075370
+    second: Halloween Theme Sprite Sheet Finished_2
+  - first:
+      213: -2019009181385506909
+    second: Halloween Theme Sprite Sheet Finished_3
+  - first:
+      213: 4008776387592773352
+    second: Halloween Theme Sprite Sheet Finished_4
+  - first:
+      213: 7790898511660986591
+    second: Halloween Theme Sprite Sheet Finished_5
+  - first:
+      213: 2677856605216085010
+    second: Halloween Theme Sprite Sheet Finished_6
+  - first:
+      213: 8486620938400226858
+    second: Halloween Theme Sprite Sheet Finished_7
+  - first:
+      213: -2578208262462051123
+    second: Halloween Theme Sprite Sheet Finished_8
+  - first:
+      213: -62012028252921398
+    second: Halloween Theme Sprite Sheet Finished_9
+  - first:
+      213: 8545494797205892704
+    second: Halloween Theme Sprite Sheet Finished_10
+  - first:
+      213: -6201331751598094819
+    second: Halloween Theme Sprite Sheet Finished_11
+  - first:
+      213: 4163965845666519339
+    second: Halloween Theme Sprite Sheet Finished_12
+  - first:
+      213: -7853941943379330306
+    second: Halloween Theme Sprite Sheet Finished_13
+  - first:
+      213: 4092007715403255609
+    second: Halloween Theme Sprite Sheet Finished_14
+  - first:
+      213: -8804016591543372209
+    second: Halloween Theme Sprite Sheet Finished_15
+  - first:
+      213: -3413622228679673691
+    second: Halloween Theme Sprite Sheet Finished_16
+  - first:
+      213: -5606699894297453956
+    second: Halloween Theme Sprite Sheet Finished_17
+  - first:
+      213: 7651629142622712781
+    second: Halloween Theme Sprite Sheet Finished_18
+  - first:
+      213: 4695894752145028719
+    second: Halloween Theme Sprite Sheet Finished_19
+  - first:
+      213: 7487812447449781484
+    second: Halloween Theme Sprite Sheet Finished_20
+  - first:
+      213: -7811342226420309896
+    second: Halloween Theme Sprite Sheet Finished_21
+  - first:
+      213: -1134929545672476710
+    second: Halloween Theme Sprite Sheet Finished_22
+  - first:
+      213: 2487210728902047508
+    second: Halloween Theme Sprite Sheet Finished_23
+  - first:
+      213: 7430061737229361176
+    second: Halloween Theme Sprite Sheet Finished_24
+  - first:
+      213: 6346337351445932355
+    second: Halloween Theme Sprite Sheet Finished_25
+  - first:
+      213: 4221260280509801049
+    second: Halloween Theme Sprite Sheet Finished_26
+  - first:
+      213: 3303884949652365846
+    second: Halloween Theme Sprite Sheet Finished_27
+  - first:
+      213: -8494475447209529533
+    second: Halloween Theme Sprite Sheet Finished_28
+  - first:
+      213: -1360253635170550499
+    second: Halloween Theme Sprite Sheet Finished_29
+  - first:
+      213: 764811157461930772
+    second: Halloween Theme Sprite Sheet Finished_30
+  - first:
+      213: -6869765915257934758
+    second: Halloween Theme Sprite Sheet Finished_31
+  - first:
+      213: 4489228678673548259
+    second: Halloween Theme Sprite Sheet Finished_32
+  - first:
+      213: 5723438825807334179
+    second: Halloween Theme Sprite Sheet Finished_33
+  - first:
+      213: 3643367102796184230
+    second: Halloween Theme Sprite Sheet Finished_34
+  - first:
+      213: -7557020473403258842
+    second: Halloween Theme Sprite Sheet Finished_35
+  - first:
+      213: 5972146047824437208
+    second: Halloween Theme Sprite Sheet Finished_36
+  - first:
+      213: 3169771982246708767
+    second: Halloween Theme Sprite Sheet Finished_37
+  - first:
+      213: 1842912070978561991
+    second: Halloween Theme Sprite Sheet Finished_38
+  - first:
+      213: 7944296826860905001
+    second: Halloween Theme Sprite Sheet Finished_39
+  - first:
+      213: -6699182609231613814
+    second: Halloween Theme Sprite Sheet Finished_40
+  - first:
+      213: -6673222359292276681
+    second: Halloween Theme Sprite Sheet Finished_41
+  - first:
+      213: 3080872456142597987
+    second: Halloween Theme Sprite Sheet Finished_42
+  - first:
+      213: -7538797195760087273
+    second: Halloween Theme Sprite Sheet Finished_43
+  - first:
+      213: 2594886985922251994
+    second: Halloween Theme Sprite Sheet Finished_44
+  - first:
+      213: -5315034159918988912
+    second: Halloween Theme Sprite Sheet Finished_45
+  - first:
+      213: -1066335302526681947
+    second: Halloween Theme Sprite Sheet Finished_46
+  - first:
+      213: -8516174854180970872
+    second: Halloween Theme Sprite Sheet Finished_47
+  - first:
+      213: 4447106300279514402
+    second: Halloween Theme Sprite Sheet Finished_48
+  - first:
+      213: -7118031976549948034
+    second: Halloween Theme Sprite Sheet Finished_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 186
+        width: 145
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfd3919b7b2cd9a0800000000000000
+      internalID: -6207038376700026928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 186
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e7f7bb1c34c9b30800000000000000
+      internalID: 4295382643958054466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 386
+        width: 168
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654ba066e7ce9bce0800000000000000
+      internalID: -1388818982445075370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 366
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afb341c8d90bf3e0800000000000000
+      internalID: -2019009181385506909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 180
+        width: 86
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eed07692e802a730800000000000000
+      internalID: 4008776387592773352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 295
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd03cac1be4de1c60800000000000000
+      internalID: 7790898511660986591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_6
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 312
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21496510568a92520800000000000000
+      internalID: 2677856605216085010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_7
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 290
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2edcb887c886c570800000000000000
+      internalID: 8486620938400226858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 271
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcce8f6ce3d583cd0800000000000000
+      internalID: -2578208262462051123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_9
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 289
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1ee2c8360b32ff0800000000000000
+      internalID: -62012028252921398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_10
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 272
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ee769fd32b79670800000000000000
+      internalID: 8545494797205892704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_11
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 249
+        width: 5
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1605a3c0a170f9a0800000000000000
+      internalID: -6201331751598094819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_12
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29dfcfffd069c930800000000000000
+      internalID: 4163965845666519339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 226
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa755a1a61310390800000000000000
+      internalID: -7853941943379330306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_14
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 244
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fc4c6365bb9c830800000000000000
+      internalID: 4092007715403255609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_15
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 211
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4679604e89d1d580800000000000000
+      internalID: -8804016591543372209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_16
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 228
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8bb2e4ba060a0d0800000000000000
+      internalID: -3413622228679673691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_17
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 214
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a1e26d6200132b0800000000000000
+      internalID: -5606699894297453956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_18
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 211
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3bd074a2c003a60800000000000000
+      internalID: 7651629142622712781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 186
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66b93ca56b2b2140800000000000000
+      internalID: 4695894752145028719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_20
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 180
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce41ef2bfbd0ae760800000000000000
+      internalID: 7487812447449781484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 158
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870653f91a9889390800000000000000
+      internalID: -7811342226420309896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 158
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7b811679bef30f0800000000000000
+      internalID: -1134929545672476710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 72
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4173fb9eaf8548220800000000000000
+      internalID: 2487210728902047508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 70
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81027caa8c1ec1760800000000000000
+      internalID: 7430061737229361176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_25
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 156
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3496ab16238b21850800000000000000
+      internalID: 6346337351445932355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 69
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952a0442cdde49a30800000000000000
+      internalID: 4221260280509801049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 148
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612e9c26bd1c9dd20800000000000000
+      internalID: 3303884949652365846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_28
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 136
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f6ccf169f8d1a80800000000000000
+      internalID: -8494475447209529533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_29
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 116
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1db93796886f1de0800000000000000
+      internalID: -1360253635170550499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 122
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41316c012b72d9a00800000000000000
+      internalID: 764811157461930772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 122
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ce6f23c40b9a0a0800000000000000
+      internalID: -6869765915257934758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_32
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 127
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e345d3c2b1fc4e30800000000000000
+      internalID: 4489228678673548259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_33
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 128
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bcce9b94dbd6f40800000000000000
+      internalID: 5723438825807334179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_34
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 110
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aab28c9317df8230800000000000000
+      internalID: 3643367102796184230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_35
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 109
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628c1721be1102790800000000000000
+      internalID: -7557020473403258842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_36
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 98
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df145f403351e250800000000000000
+      internalID: 5972146047824437208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 97
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f160dccd2da4dfb20800000000000000
+      internalID: 3169771982246708767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_38
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 58
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7e4fea3c6539910800000000000000
+      internalID: 1842912070978561991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_39
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 58
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922ae439fdfcf3e60800000000000000
+      internalID: 7944296826860905001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_40
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 69
+        width: 5
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80764329e8b703a0800000000000000
+      internalID: -6699182609231613814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_41
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 37
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7309037de93f363a0800000000000000
+      internalID: -6673222359292276681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f2aaafc2571ca20800000000000000
+      internalID: 3080872456142597987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 28
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f420984efc06790800000000000000
+      internalID: -7538797195760087273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 28
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc0e2427f3e20420800000000000000
+      internalID: 2594886985922251994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_45
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 40
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09146f087943d36b0800000000000000
+      internalID: -5315034159918988912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_46
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 31
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac307921bd9331f0800000000000000
+      internalID: -1066335302526681947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88edd6b371870d980800000000000000
+      internalID: -8516174854180970872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_48
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 6
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225ef8a4e9b47bd30800000000000000
+      internalID: 4447106300279514402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween Theme Sprite Sheet Finished_49
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 0
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e756ed951aba73d90800000000000000
+      internalID: -7118031976549948034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
