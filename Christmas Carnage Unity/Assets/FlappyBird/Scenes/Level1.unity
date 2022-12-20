@@ -720,7 +720,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxSecondsPassed: 1.5
   lampPostPrefab: {fileID: 3210050180896791254, guid: bf4b0a0b895229848beaf0ce906e00dc, type: 3}
-  height: 4
+  height: -3.3
 --- !u!4 &42877092
 Transform:
   m_ObjectHideFlags: 0
@@ -729,7 +729,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 42877090}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5, y: 1, z: 0}
+  m_LocalPosition: {x: 7.275, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -28006,6 +28006,7 @@ MonoBehaviour:
   sherlockSprites:
   - {fileID: 220617198}
   - {fileID: 1561789691}
+  - {fileID: 42877090}
   arrowSprites:
   - {fileID: 757957944}
   - {fileID: 7750281}
@@ -74775,7 +74776,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 5
   m_Sprite: {fileID: 5000269942951083544, guid: fea70d7ee37904172b2fb24eb1f54fae, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

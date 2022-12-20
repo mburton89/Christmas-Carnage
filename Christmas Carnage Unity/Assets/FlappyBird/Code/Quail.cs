@@ -9,6 +9,8 @@ public class Quail : MonoBehaviour
     public AudioSource hurtSound;
     Rigidbody2D rigidBody2D;
 
+    bool canJump = true;
+
     private void Awake()
     {
         Application.targetFrameRate = 60;
@@ -21,7 +23,7 @@ public class Quail : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) && canJump)
         {
             Jump();
         }
@@ -30,7 +32,7 @@ public class Quail : MonoBehaviour
         {
             if (touch.fingerId == 0 && Time.timeScale == 1)
             {
-                if (Input.GetTouch(0).phase == TouchPhase.Began)
+                if (Input.GetTouch(0).phase == TouchPhase.Began && canJump)
                 {
                     Jump();
                 }
@@ -51,7 +53,16 @@ public class Quail : MonoBehaviour
 
     void Lose()
     {
+        canJump = false;
+        GetComponent<Collider2D>().enabled = false;
+        transform.localScale = new Vector3(1, -1, 1);
         hurtSound.Play();
+        StartCoroutine(DelayGameOver());
+    }
+
+    private IEnumerator DelayGameOver()
+    {
+        yield return new WaitForSeconds(1);
         GameManager.Instance.GameOver();
     }
 }
